@@ -3,7 +3,7 @@ hw3.pdf:
 project requirements
 
 report3.pdf:
-final report for the project
+final report for the programming project
 
 Three python files in total.
 

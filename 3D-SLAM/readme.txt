@@ -1,4 +1,9 @@
 readme
+hw3.pdf:
+project requirements
+
+report3.pdf:
+final report for the project
 
 Three python files in total.
 

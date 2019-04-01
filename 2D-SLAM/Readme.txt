@@ -1,4 +1,12 @@
-upload 2 python files:
+hw2.pdf:
+	project requirements.
+
+Project2 (msprinter).pdf:
+	the final report for the project.
+	
+*.mp4:
+	SLAM results visualized in slides.
+
 project2_modified.py:
 	including particle shift, can get excellent results for test20 test21. 
 	set map range in init_map()

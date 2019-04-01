@@ -2,7 +2,7 @@ hw2.pdf:
 	project requirements.
 
 Project2 (msprinter).pdf:
-	the final report for the project.
+	the final report for the programming project.
 	
 *.mp4:
 	SLAM results visualized in slides.

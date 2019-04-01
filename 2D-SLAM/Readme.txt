@@ -1,3 +1,5 @@
+RGBD data are not provided because of the size. You can find download link in hw2.pdf.
+
 hw2.pdf:
 	project requirements.
 
